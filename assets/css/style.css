@@ -91,3 +91,7 @@ h2 {
   font-weight: 700;
   line-height: 50px;
 }
+
+.hero-button:hover {
+  background-color: #ff7b3e;
+}
