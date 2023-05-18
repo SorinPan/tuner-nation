@@ -13,6 +13,10 @@ body {
   font-weight: 400;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Logo and heading */
 
 h1,
@@ -56,6 +60,10 @@ header {
 
 #navbar li a {
   color: rgb(255, 255, 255);
+}
+
+#navbar li a:hover {
+  color:#ff7b3e;
 }
 
 /* hero image and content */
