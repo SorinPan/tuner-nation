@@ -113,3 +113,26 @@ header {
 .hero-button:hover {
   background-color: #ff7b3e;
 }
+
+/* Mission content and image */
+
+#mission {
+  height: 750px;
+  padding: 100px 5%;
+}
+
+#mission-heading {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+/* #mission-content {
+  padding: 0 5%;
+  width: 50%;
+  float: left;
+} */
+
