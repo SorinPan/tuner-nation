@@ -71,7 +71,7 @@ header {
 
 #hero {
   height: 90vh;
-  width: 100vw;
+  width: 100%;
   position: relative;
   background: url(../images/hero-image.jpg) no-repeat center center;
   background-size: cover;
