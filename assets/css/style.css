@@ -117,11 +117,11 @@ header {
 /* Mission content and image */
 
 #mission {
-  height: 750px;
+  height: 600px;
   padding: 100px 5%;
 }
 
-#mission-heading {
+#mission h1 {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -131,23 +131,38 @@ header {
 }
 
 #mission-content {
-  width: 50%;
+  display: flex;
+  justify-content: center;
 }
 
-#mission-content h2 {
+#mission-heading {
+  margin-right: auto;
+}
+
+#mission-heading h2 {
   font-size: 40px;
   font-weight: 400;
   margin-bottom: 10px;
   line-height: 40px;
 }
 
-#mission-content hr {
+#mission-heading hr {
   border-top: 1px solid #f8d106;
   margin: 20px 0px;
 }
 
-#mission-content p {
+#mission-heading p {
   font-size: 16px;
   line-height: 25px;
 }
 
+#image-container {
+  padding-left: 5%;
+  height: 50%;
+}
+
+#image-container img {
+  border-radius: 5%;
+  max-width: 500px;
+
+}
