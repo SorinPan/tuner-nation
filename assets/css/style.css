@@ -64,7 +64,7 @@ header {
 }
 
 #navbar li a:hover {
-  color:#ff7b3e;
+  color:#f8d106;
 }
 
 /* hero image and content */
@@ -111,7 +111,7 @@ header {
 }
 
 .hero-button:hover {
-  background-color: #ff7b3e;
+  background-color: #f8d106;
 }
 
 /* Mission content and image */
