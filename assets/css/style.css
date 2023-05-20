@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&family=Roboto+Condensed&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Oswald&family=Roboto&display=swap');
 
 * {
   margin: 0;
@@ -21,7 +21,7 @@ a {
 
 h1,
 h2 {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: Oswald, sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: rgb(255, 255, 255);
@@ -40,7 +40,7 @@ header {
 }
 
 #logo h1 {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 150%;
   letter-spacing: 1px;
 }
@@ -50,7 +50,7 @@ header {
 #navbar {
   font-size: 100%;
   list-style-type: none;
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   letter-spacing: 1px;
 }
 
@@ -92,7 +92,7 @@ header {
 
 #hero-text {
   font-size: 1.2rem;
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   margin-bottom: 1rem;
 }
 
@@ -103,7 +103,7 @@ header {
   border: 1px solid #d1d1d1;
   padding: 12px 20px 12px 24px;
   border-radius: 0;
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   letter-spacing: 3px;
   font-size: 25px;
   font-weight: 700;
@@ -122,7 +122,7 @@ header {
 }
 
 #mission-heading {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
