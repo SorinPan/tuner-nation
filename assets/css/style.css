@@ -130,9 +130,24 @@ header {
   margin-bottom: 10px;
 }
 
-/* #mission-content {
-  padding: 0 5%;
+#mission-content {
   width: 50%;
-  float: left;
-} */
+}
+
+#mission-content h2 {
+  font-size: 40px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  line-height: 40px;
+}
+
+#mission-content hr {
+  border-top: 1px solid #f8d106;
+  margin: 20px 0px;
+}
+
+#mission-content p {
+  font-size: 16px;
+  line-height: 25px;
+}
 
