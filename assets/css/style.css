@@ -117,7 +117,7 @@ header {
 /* Mission content and image */
 
 #mission {
-  height: 600px;
+  height: 100%;
   padding: 100px 5%;
 }
 
@@ -175,8 +175,8 @@ header {
   width: 90%;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
+  column-gap: 20px;
+  row-gap: 20px;
 }
 
 #events-heading {
@@ -184,8 +184,24 @@ header {
   text-align: right;
 }
 
+#events-heading h1 {
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+#events-heading h2 {
+  font-size: 40px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  line-height: 40px;
+}
+
 #stockholm {
-  background: url(../images/stockholm.jpg) no-repeat center center;
+  background: url(../images/stockholm.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -199,21 +215,21 @@ header {
 }
 
 #malmo {
-  background: url(../images/malmo.jpg) no-repeat center center;
+  background: url(../images/malmo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #helsingborg {
-  background: url(../images/helsingborg.jpg) no-repeat center center;
+  background: url(../images/helsingborg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #linkoping {
-  background: url(../images/linkoping.jpg) no-repeat center center;
+  background: url(../images/linkoping.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
