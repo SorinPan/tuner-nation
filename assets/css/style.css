@@ -74,8 +74,7 @@ header {
 #hero {
   height: 90vh;
   width: 100%;
-  position: relative;
-  background: url(../images/hero-image.jpg) no-repeat center center;
+  background: url(../images/hero-image.jpg) no-repeat center;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -280,4 +279,19 @@ header {
 .contact li {
   color: #383838;
   padding: 0 30px;
+}
+
+/* About us page intro */
+
+#about-intro {
+  background: url(../images/about-intro.jpg) no-repeat center;
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#intro-heading {
+  font-size: 2rem;
 }
