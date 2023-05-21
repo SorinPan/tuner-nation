@@ -184,8 +184,44 @@ header {
   text-align: right;
 }
 
+#stockholm {
+  background: url(../images/stockholm.jpg) no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#gbg {
+  background: url(../images/gothenburg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#malmo {
+  background: url(../images/malmo.jpg) no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#helsingborg {
+  background: url(../images/helsingborg.jpg) no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#linkoping {
+  background: url(../images/linkoping.jpg) no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 .city {
-  border: 1px solid #fff;
+  border-radius: 5%;
   text-align: center;
-  height: 300px;
+  height: 200px;
+  max-width: 100%;
 }
