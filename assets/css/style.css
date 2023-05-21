@@ -164,5 +164,28 @@ header {
 #image-container img {
   border-radius: 5%;
   max-width: 500px;
+}
 
+/* Events */
+
+#events {
+  height: 600px;
+  padding: 0 5%;
+  display: grid;
+  width: 90%;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+}
+
+#events-heading {
+  grid-area: 1 / 3 / 2 / 4;
+  text-align: right;
+}
+
+.city {
+  border: 1px solid #fff;
+  text-align: center;
+  height: 300px;
 }
