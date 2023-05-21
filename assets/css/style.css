@@ -186,19 +186,20 @@ header {
 }
 
 #events-heading h1 {
-  font-family: "Fira Sans Condensed", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  letter-spacing: 3px;
-  line-height: 20px;
-  margin-bottom: 10px;
-}
-
-#events-heading h2 {
   font-size: 40px;
   font-weight: 400;
   margin-bottom: 10px;
   line-height: 40px;
+}
+
+#events-heading hr {
+  border-top: 1px solid #f8d106;
+  margin: 20px 0px;
+}
+
+#events-heading p {
+  font-size: 16px;
+  line-height: 25px;;
 }
 
 #stockholm {
