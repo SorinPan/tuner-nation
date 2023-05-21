@@ -269,3 +269,15 @@ header {
   color: #f8d106;
   transition: 0.5s;
 }
+
+.contact {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+.contact li {
+  color: #383838;
+  padding: 0 30px;
+}
