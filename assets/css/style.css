@@ -246,3 +246,26 @@ header {
   height: 200px;
   max-width: 400px;
 }
+
+/* footer section */
+
+#footer-section {
+  border-top: 1px solid #383838;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+.social-links a {
+  font-size: 200%;
+  color: #383838;
+}
+
+.social-links i:hover {
+  color: #f8d106;
+  transition: 0.5s;
+}
