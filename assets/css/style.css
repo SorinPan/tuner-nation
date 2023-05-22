@@ -317,3 +317,22 @@ header {
 #about p {
   line-height: 25px;
 }
+
+/* Previous events section */
+
+#gallery {
+  margin: 5%;
+  text-align: center;
+}
+
+#images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+#images img {
+  width: 30%;
+  padding: 1%;
+  border-radius: 5%;
+}
