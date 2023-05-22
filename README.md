@@ -37,3 +37,22 @@ Google Fonts and FontJoy were used for the following:
 - Robot is used for the body text of the website.
 
 I think this pairing provides a balanced and visually pleasing contrast.
+
+## Technologies Used
+
+### Languages Used
+
+- HTML5
+- CSS3
+
+### Programs Used
+
+- Figma: Used for creating wireframes.
+- Visual Studio Code: Used for writing and developing code.
+- CodeAnywhere: Used for writing and developing code.
+- Git: Used for version control.
+- GitHub: Used to store the files and deploy.
+- FireFox Developer Edition: Used to test new features before implementing into actual code.
+- Google Fonts: Used to import the fonts.
+- FontJoy: Used to find fonts pairing.
+- Font Awesome: Used for icons.
