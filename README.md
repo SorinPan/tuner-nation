@@ -56,3 +56,17 @@ I think this pairing provides a balanced and visually pleasing contrast.
 - Google Fonts: Used to import the fonts.
 - FontJoy: Used to find fonts pairing.
 - Font Awesome: Used for icons.
+
+## Doployment and Development
+
+### Deployed with GitHub Pages
+
+GitHub Pages was used for deployment:
+
+1. Log in to GitHub.
+2. Select repository for the project.
+3. Go to "Settings".
+4. Click on "Pages".
+5. In the Source section, select branch "Main" and then select "Root" from the dropdown menu.
+6. Click "Save".
+7. Wait a couple of section and GitHub will provide the link to deployed website.
