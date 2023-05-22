@@ -25,3 +25,15 @@ Tuner Nation is a website that celebrates the art of tuning and all things autom
 
 - As a returning customer, I want to find new information about upcoming events.
 - As a returning customer, I want easily find contact information.
+
+## Design
+
+### Typography
+
+Google Fonts and FontJoy were used for the following:
+
+- Fira Sans Condensed is used for logo and shorter text.
+- Oswald is used for headings.
+- Robot is used for the body text of the website.
+
+I think this pairing provides a balanced and visually pleasing contrast.
