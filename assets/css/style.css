@@ -121,6 +121,7 @@ header {
 #mission {
   height: 100%;
   padding: 100px 5%;
+  margin: 150px;
 }
 
 #mission h1 {
@@ -172,10 +173,9 @@ header {
 /* Events */
 
 #cities {
-  height: 600px;
+  margin: 150px 10%;
   padding: 0 5%;
   display: grid;
-  width: 90%;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
   column-gap: 20px;
