@@ -246,6 +246,29 @@ header {
   max-width: 400px;
 }
 
+/* upcoming events */
+
+#upcoming {
+  margin: 150px 10%;
+  padding: 0 5%;
+}
+
+#events {
+  display: flex;
+  justify-content: space-between;
+}
+
+.event {
+  width: 20%;
+  height: 150px;
+  text-align: center;
+  border: 2px solid #383838;
+}
+
+.event h2 {
+  margin-top: 50px;
+}
+
 /* footer section */
 
 #footer-section {
