@@ -448,4 +448,15 @@ header {
   .hero-button {
     font-size: 15px;
   }
+
+  /* Responsive Cities section */
+
+  #cities {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #cities-heading {
+    text-align: left;
+  }
 }
