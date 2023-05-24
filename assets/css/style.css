@@ -359,3 +359,14 @@ header {
   padding: 1%;
   border-radius: 5%;
 }
+
+/* Responsive */
+
+/* Screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+
+  #hero {
+    height: 50vh;
+  }
+}
