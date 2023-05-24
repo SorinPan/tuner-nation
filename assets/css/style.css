@@ -459,4 +459,15 @@ header {
   #cities-heading {
     text-align: left;
   }
+
+  /* Responsive Upcoming Events section */
+
+  #events {
+    flex-direction: column;
+  }
+
+  .event {
+    width: 100%;
+    margin: 10px 0;
+  }
 }
