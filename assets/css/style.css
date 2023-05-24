@@ -366,9 +366,13 @@ header {
 
 @media screen and (max-width: 950px) {
 
+  /* Responsive Hero section */
+
   #hero {
     height: 50vh;
   }
+
+  /* Responsive Mission section */
 
   #mission {
     margin: 100px 0;
@@ -384,7 +388,7 @@ header {
     width: 100%;
   }
 
-  /* Cities section responsive */
+  /* Responsive Cities section */
 
   #cities {
     margin: 100px 0;
@@ -396,7 +400,7 @@ header {
     grid-area: 1 / 2 / 2/ 2;
   }
 
-  /* Upcoming Events responsive */
+  /* Responsive Upcoming Events section */
 
   #upcoming {
     margin: 100px 0;
@@ -411,6 +415,8 @@ header {
 
 @media screen and (max-width: 575px) {
   
+  /* Responsive Logo and Navbar */
+
   header {
     flex-direction: column;
     padding: 20px 5%;
@@ -427,5 +433,19 @@ header {
 
   #navbar li {
     display: block;
+  }
+
+  /* Responsive Hero */
+
+  #hero-heading {
+    font-size: 40px;
+  }
+
+  #hero-text {
+    font-size: 15px;
+  }
+
+  .hero-button {
+    font-size: 15px;
   }
 }
