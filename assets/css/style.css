@@ -470,4 +470,12 @@ header {
     width: 100%;
     margin: 10px 0;
   }
+
+  /* Responsive Footer */
+
+  .contact {
+    flex-direction: column;
+    text-align: center;
+    line-height: 20px;
+  }
 }
