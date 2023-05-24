@@ -369,4 +369,18 @@ header {
   #hero {
     height: 50vh;
   }
+
+  #mission {
+    margin: 100px 0;
+  }
+
+  #mission-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #mission-heading {
+    margin-bottom: 50px;
+    width: 100%;
+  }
 }
