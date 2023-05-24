@@ -522,4 +522,14 @@ header {
     text-align: center;
     line-height: 20px;
   }
+
+  /* Responsive Form */
+
+  #form-section {
+    margin: 0;
+  }
+
+  .meet-form input, label {
+    display: flex;
+  }
 }
