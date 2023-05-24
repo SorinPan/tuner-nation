@@ -383,4 +383,16 @@ header {
     margin-bottom: 50px;
     width: 100%;
   }
+
+  /* Cities section responsive */
+
+  #cities {
+    margin: 100px 0;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+  }
+
+  #cities-heading {
+    grid-area: 1 / 2 / 2/ 2;
+  }
 }
