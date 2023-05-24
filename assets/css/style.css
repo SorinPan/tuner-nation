@@ -360,6 +360,44 @@ header {
   border-radius: 5%;
 }
 
+/* Form */
+
+#form-section {
+  border: 1px solid #383838;
+  margin: 150px;
+  padding: 20px;
+}
+
+.meet-form {
+  padding: 30px;
+}
+
+.text-input {
+  background: transparent;
+  width: 100%;
+  height: 30px;
+  margin: 5px 0 25px 0;
+  border: 1px solid #383838;
+}
+
+.text-input:hover {
+  border-color: #f8d106;
+}
+
+#meet-button {
+  margin-top: 25px;
+  padding: 15px 30px;
+  font-size: 100%;
+  background-color: #f8d106;
+  color: #383838;
+  display: block;
+}
+
+#meet-button:hover {
+  background-color: #fafafa;
+  color: #f8d106;
+}
+
 /* Responsive */
 
 /* Screen sizes from 950px wide and down */
