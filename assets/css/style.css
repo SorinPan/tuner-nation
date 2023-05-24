@@ -447,6 +447,12 @@ header {
   .event h2, h3 {
     font-size: 100%;
   }
+
+  /* Responsive Form */
+
+  #form-section {
+    margin: 50px;
+  }
 }
 
 /* Screen sizes from 575px wide and down */
