@@ -395,4 +395,14 @@ header {
   #cities-heading {
     grid-area: 1 / 2 / 2/ 2;
   }
+
+  /* Upcoming Events responsive */
+
+  #upcoming {
+    margin: 100px 0;
+  }
+
+  .event h2, h3 {
+    font-size: 100%;
+  }
 }
