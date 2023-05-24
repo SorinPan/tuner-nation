@@ -315,7 +315,7 @@ header {
   align-items: center;
 }
 
-#intro-heading {
+.intro-heading {
   font-size: 2rem;
 }
 
@@ -361,6 +361,15 @@ header {
 }
 
 /* Form */
+
+#form-intro {
+  background: url(../images/form-intro.jpg) no-repeat center;
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 #form-section {
   border: 1px solid #383838;
