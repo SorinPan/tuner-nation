@@ -35,6 +35,55 @@
         </ul>
       </nav>
     </header>
+
+    <!-- Start Form -->
+
+    <!-- Part of the code taken from https://github.com/SorinPan/love-running -->
+    <section id="form-section">
+      <form method="POST" action="https://formdump.codeinstitute.net/" class="meet-form">
+        <h2>Meet Up</h2>
+        <p>Connect with with fellow car enthusiasts and showcase your ride</p>
+
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="first_name" class="text-input" required>
+
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="last_name" class="text-input" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email_adress" class="text-input" required>
+
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" name="phone_number" class="text-input" required>
+
+        <label for="car">Type of Car</label>
+        <input type="text" id="car" name="type_of_car" class="text-input" required>
+
+        <label for="reg-number">Registration Number</label>
+        <input type="text" id="reg-number" name="registration_number" class="text-input" required>
+
+        <h3>Choose Your City</h3>
+        <label for="stockholm">Stockholm</label>
+        <input type="radio" id="stockholm" name="event_location" value="stockholm" required>
+
+        <label for="gothenborg">Gothenborg</label>
+        <input type="radio" id="gothenborg" name="event_location" value="gothenborg">
+
+        <label for="malmo">Malmö</label>
+        <input type="radio" id="malmo" name="event_location" value="malmo">
+
+        <label for="helsingborg">Helsingborg</label>
+        <input type="radio" id="helsingborg" name="event_location" value="helsingborg">
+
+        <label for="linkoping">Linköping</label>
+        <input type="radio" id="linkoping" name="event_location" value="linkoping">
+
+        <label for="message">Message</label>
+        <input type="text" id="message" name="message" class="text-input">
+
+        <input type="submit" value="Meet Up" id="meet-button">
+      </form>
+    </section>
     
 
     <!-- Start footer section
