@@ -449,6 +449,12 @@ header {
     font-size: 15px;
   }
 
+  /* Responsive Mission */
+
+  #image-container img {
+    width: 100%;
+  }
+
   /* Responsive Cities section */
 
   #cities {
