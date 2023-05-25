@@ -2,7 +2,7 @@
 
 Tuner Nation is a website that celebrates the art of tuning and all things automotive. The website will help car enthusiasts to connect, showcase their cars and learn from one another.
 
-![Am I responsive view](docs/am-i-responsive)
+![Am I responsive view](docs/am-i-responsive.jpg)
 
 [View live site](https://sorinpan.github.io/tuner-nation/)
 
