@@ -546,6 +546,10 @@ textarea {
 
   /* Responsive Mission */
 
+  #mission {
+    margin: 20px 0;
+  }
+
   #image-container img {
     width: 100%;
   }
@@ -553,6 +557,7 @@ textarea {
   /* Responsive Cities section */
 
   #cities {
+    margin: 20px 0;
     display: flex;
     flex-direction: column;
   }
