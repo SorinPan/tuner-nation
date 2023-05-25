@@ -396,10 +396,15 @@ header {
   height: 30px;
   margin: 5px 0 25px 0;
   border: 1px solid #383838;
+  color: #fafafa;
 }
 
 .text-input:hover {
   border-color: #f8d106;
+}
+
+textarea {
+  resize: vertical;
 }
 
 #meet-button {
