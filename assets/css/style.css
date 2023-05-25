@@ -74,7 +74,10 @@ header {
 #hero {
   height: 90vh;
   width: 100%;
-  background: url(../images/hero-image.jpg) no-repeat center;
+  background: linear-gradient(
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .4)),
+    url(../images/hero-image.jpg) no-repeat center;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -182,6 +185,10 @@ header {
   row-gap: 20px;
 }
 
+#cities h2 {
+  margin-top: 80px;
+}
+
 #cities-heading {
   grid-area: 1 / 3 / 2 / 4;
   text-align: right;
@@ -205,35 +212,50 @@ header {
 }
 
 #stockholm {
-  background: url(../images/stockholm.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, .3),
+    rgba(0, 0, 0, .3)),
+    url(../images/stockholm.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #gbg {
-  background: url(../images/gothenburg.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, .3),
+    rgba(0, 0, 0, .3)),
+    url(../images/gothenburg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #malmo {
-  background: url(../images/malmo.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, .3),
+    rgba(0, 0, 0, .3)),
+    url(../images/malmo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #helsingborg {
-  background: url(../images/helsingborg.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, .3),
+    rgba(0, 0, 0, .3)),
+    url(../images/helsingborg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #linkoping {
-  background: url(../images/linkoping.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, .3),
+    rgba(0, 0, 0, .3)),
+    url(../images/linkoping.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -307,7 +329,10 @@ header {
 /* About us page intro */
 
 #intro {
-  background: url(../images/about-intro.jpg) no-repeat center;
+  background: linear-gradient(
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .4)),
+    url(../images/about-intro.jpg) no-repeat center;
   background-size: cover;
   height: 50vh;
   display: flex;
@@ -363,7 +388,10 @@ header {
 /* Form */
 
 #form-intro {
-  background: url(../images/form-intro.jpg) no-repeat center;
+  background: linear-gradient(
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .4)),
+    url(../images/form-intro.jpg) no-repeat center;
   background-size: cover;
   height: 50vh;
   display: flex;
