@@ -377,6 +377,15 @@ header {
   padding: 20px;
 }
 
+#form-section hr {
+  border-top: 1px solid #f8d106;
+  margin: 20px 75% 20px 0;
+}
+
+#form-section p {
+  margin-bottom: 20px;
+}
+
 .meet-form {
   padding: 30px;
 }
