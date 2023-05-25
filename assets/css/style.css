@@ -275,6 +275,12 @@ header {
   padding: 0 5%;
 }
 
+#upcoming h1 {
+  font-size: 40px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
 #events {
   display: flex;
   justify-content: space-between;
