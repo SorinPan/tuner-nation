@@ -635,9 +635,14 @@ header {
 
   #form-section {
     margin: 0;
+    flex-direction: column-reverse;
   }
 
-  .meet-form input, label {
-    display: flex;
+  .meet-form {
+    width: 100%;
+  }
+
+  .text-input {
+    width: 100%;
   }
 }
