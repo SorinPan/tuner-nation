@@ -645,4 +645,9 @@ header {
   .text-input {
     width: 100%;
   }
+
+  #steps {
+    border-right: 1px solid #383838;
+    width: 80%;
+  }
 }
