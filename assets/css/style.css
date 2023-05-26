@@ -511,6 +511,12 @@ textarea {
     margin: 5% 15%;
   }
 
+  /* Responsive Gallery */
+
+  #images img {
+    width: 48%;
+  }
+
   /* Responsive Form */
 
   #form-section {
@@ -596,6 +602,16 @@ textarea {
 
   #about {
     margin: 5% 5%;
+  }
+
+  /* Responsive Gallery */
+
+  #gallery {
+    margin: 100px 5%;
+  }
+
+  #images img {
+    width: 100%;
   }
 
   /* Responsive Form */
