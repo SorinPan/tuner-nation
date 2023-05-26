@@ -123,8 +123,8 @@ header {
 
 #mission {
   height: 100%;
-  padding: 100px 5%;
-  margin: 150px;
+  padding: 0 5%;
+  margin: 200px 10%;
 }
 
 #mission h1 {
@@ -176,7 +176,7 @@ header {
 /* Events */
 
 #cities {
-  margin: 150px 10%;
+  margin: 200px 10%;
   padding: 0 5%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -265,13 +265,13 @@ header {
   border-radius: 5%;
   text-align: center;
   height: 200px;
-  max-width: 400px;
+  width: 100%;
 }
 
 /* upcoming events */
 
 #upcoming {
-  margin: 150px 10%;
+  margin: 200px 10%;
   padding: 0 5%;
 }
 
@@ -552,10 +552,6 @@ textarea {
 
   /* Responsive Mission */
 
-  #mission {
-    margin: 20px 0;
-  }
-
   #image-container img {
     width: 100%;
   }
@@ -563,7 +559,6 @@ textarea {
   /* Responsive Cities section */
 
   #cities {
-    margin: 20px 0;
     display: flex;
     flex-direction: column;
   }
