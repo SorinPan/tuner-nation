@@ -505,6 +505,12 @@ textarea {
     font-size: 100%;
   }
 
+  /* Responsive About */
+
+  #about {
+    margin: 5% 15%;
+  }
+
   /* Responsive Form */
 
   #form-section {
@@ -584,6 +590,12 @@ textarea {
     flex-direction: column;
     text-align: center;
     line-height: 20px;
+  }
+
+  /* Responsive About */
+
+  #about {
+    margin: 5% 5%;
   }
 
   /* Responsive Form */
