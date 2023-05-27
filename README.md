@@ -50,7 +50,9 @@ I think this pairing provides a balanced and visually pleasing contrast.
 
 The website contains three main pages which can be accessed from the menu bar on the top of the website.
 
-### Logo and Navigation Bar
+### Home Page
+
+#### Logo and Navigation Bar
 
 - Simple and intuitive.
 - A navigation bar at the top which allows the visitors to easily navigate the website. Includes links to Home page, About page and Meet Up page.
@@ -58,6 +60,14 @@ The website contains three main pages which can be accessed from the menu bar on
 - Both Logo and Navigation bar are responsive for smaller screens.
 
 ![Navbar feature](docs/navbar-feature.png)
+
+#### Hero
+
+- Contains a background image of a slightly tuned car to give the visitor an idea of what the website is about.
+- Contains a heading and a short description of what the site is about.
+- "Join Us" button so visitors can access the Meet Up page easily.
+
+![Hero feature](docs/hero-feature.png)
 
 ## Technologies Used
 
