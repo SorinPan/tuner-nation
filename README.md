@@ -186,3 +186,7 @@ Used to validate HTML and CSS code for all pages. H1 headings were used in secti
 <details><summary>CSS</summary>
 <img src="docs/validation/css-validation.png">
 </details>
+
+### Solved Bugs
+
+- Side scroll bar for mobile screen size. Adjusted the size of mission image.
