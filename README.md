@@ -190,3 +190,21 @@ Used to validate HTML and CSS code for all pages. H1 headings were used in secti
 ### Solved Bugs
 
 - Side scroll bar for mobile screen size. Adjusted the size of mission image.
+
+## Lighhouse
+
+Lighthouse was used on every page of the website to test the Performance, Accessibility, Best Practices and SEO.
+
+Used a linear-gradient to darken the images for a better Accessibility result.
+
+<details><summary>Home Page</summary>
+<img src="docs/validation/index-lighthouse.png">
+</details>
+
+<details><summary>About Page</summary>
+<img src="docs/validation/about-lighthouse.png">
+</details>
+
+<details><summary>Meet Up Page</summary>
+<img src="docs/validation/meetup-lighthouse.png">
+</details>
