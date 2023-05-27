@@ -76,6 +76,13 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![Mission Feature](docs/mission-feature.png)
 
+#### City
+
+- Allows thye visitors to see where the events will take place.
+- Short paragraph to encourage the visitors to join.
+
+![City feature](docs/city-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
