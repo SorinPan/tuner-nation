@@ -113,6 +113,12 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![Form feature](docs/form-feature.png)
 
+## Future Feature
+
+- Hamburger Button for navigation bar on mobile screens.
+- Tracks. A section where user can book time on tracks where they can drive/race their tuned cars.
+- Events Page. A page dedicated just for events where more descriptive iformation about specific events will be.
+
 ## Technologies Used
 
 ### Languages Used
