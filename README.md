@@ -46,6 +46,19 @@ Google Fonts and FontJoy were used for the following:
 
 I think this pairing provides a balanced and visually pleasing contrast.
 
+## Features
+
+The website contains three main pages which can be accessed from the menu bar on the top of the website.
+
+### Logo and Navigation Bar
+
+- Simple and intuitive.
+- A navigation bar at the top which allows the visitors to easily navigate the website. Includes links to Home page, About page and Meet Up page.
+- A logo at the top left which allows the visitors to easily return to the Home Page.
+- Both Logo and Navigation bar are responsive for smaller screens.
+
+![Navbar feature](docs/navbar-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
