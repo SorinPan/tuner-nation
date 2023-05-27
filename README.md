@@ -83,6 +83,13 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![City feature](docs/city-feature.png)
 
+#### Upcoming Events
+
+- Allows the users to see the date of future events.
+- Simple and Informative.
+
+![Upcoming Events feature](docs/upcoming-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
