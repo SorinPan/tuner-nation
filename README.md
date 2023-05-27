@@ -98,6 +98,12 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![About Feature](docs/about-feature.png)
 
+#### Gallery
+
+- Images of the past events.
+
+![Gallery feature](docs/gallery-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
