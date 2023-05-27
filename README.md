@@ -90,6 +90,14 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![Upcoming Events feature](docs/upcoming-feature.png)
 
+### About Us Page
+
+#### About
+
+- Description of what the website is about.
+
+![About Feature](docs/about-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
