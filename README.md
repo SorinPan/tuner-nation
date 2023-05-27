@@ -104,6 +104,15 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![Gallery feature](docs/gallery-feature.png)
 
+### Meet Up Page
+
+#### Form and Instructions
+
+- Contains a Form that the user can submit in order to book and and get info on an event.
+- Contains a short instructions about how to attend an event.
+
+![Form feature](docs/form-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
