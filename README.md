@@ -164,3 +164,25 @@ There are many ways to do this. I did it in the following way:
 - Log in to VsCode with your Github account.
 - Press SHIFT + CMD + P (For Mac), type "Clone" and select "Git:Clone".
 - Paste in the URL and press Enter to create the local clone.
+
+## Testing
+
+### W3C Validator
+
+Used to validate HTML and CSS code for all pages. H1 headings were used in section which resulted in a warning. Not able to fix the issue due to lack of time.
+
+<details><summary>Home Page</summary>
+<img src="docs/validation/index-validator.png">
+</details>
+
+<details><summary>About Page</summary>
+<img src="docs/validation/about-validation.png">
+</details>
+
+<details><summary>Meet Up Page</summary>
+<img src="docs/validation/meetup-validation.png">
+</details>
+
+<details><summary>CSS</summary>
+<img src="docs/validation/css-validation.png">
+</details>
