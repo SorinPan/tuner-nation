@@ -69,6 +69,13 @@ The website contains three main pages which can be accessed from the menu bar on
 
 ![Hero feature](docs/hero-feature.png)
 
+#### Mission
+
+- Introduces the visitors to the website's mission.
+- Image of a couple of tuned cars.
+
+![Mission Feature](docs/mission-feature.png)
+
 ## Technologies Used
 
 ### Languages Used
