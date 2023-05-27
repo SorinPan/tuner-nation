@@ -208,3 +208,43 @@ Used a linear-gradient to darken the images for a better Accessibility result.
 <details><summary>Meet Up Page</summary>
 <img src="docs/validation/meetup-lighthouse.png">
 </details>
+
+## Credits
+
+### Code
+
+- [Love Running Walkthrough Project](https://github.com/SorinPan/love-running)
+- [:hover - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+[How to change the color while hovering in CSS](https://learn.coderslang.com/0129-how-to-change-the-color-while-hovering-in-css/)
+- [Flexbox vs. CSS Grid: Which Should You Use?](https://www.makeuseof.com/css-flexbox-grid-which/)
+- [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co/)
+- [A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- -[CSS Flexbox: A simple visual cheatsheet for flexbox](https://flexboxsheet.com/)
+- [grid-area - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-area)
+- [Design Considerations: Text on Images | CSS-Tricks - CSS-Tricks](https://css-tricks.com/design-considerations-text-images/)
+
+### ReadMe
+
+- https://github.com/kera-cudmore/readme-examples/tree/main
+
+### Images
+
+- Hero image 
+  - Photo by  [Christian Wiediger](https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/1A-hCSHcEl0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Mission image 
+   - Photo by  [Karol Smoczynski](https://unsplash.com/@karolsmoczynski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/3_o142HXR6k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+-  Cities  images: 
+   - Photo by  [AIRIZ](https://unsplash.com/@arizhzzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/6wTlOpaV6Kk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+   - Photo by  [Felix Fuchs](https://unsplash.com/es/@felifox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/HbCaM8nzFXA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+   - Photo by  [AIRIZ](https://unsplash.com/@arizhzzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/Y0yNXrQpJ_g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+   - Photo by  [Martin Katler](https://unsplash.com/@martinkatler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/C2o6zsIXgHY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+   - Photo by  [Ben Griffiths](https://unsplash.com/es/@benofthenorth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/u2CcnhbSGP0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+- About Intro:
+  - Photo by  [Christian Wiediger](https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/qkrxHHziyJU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+- Gallery:
+  - Photo by  [Jason Leung](https://unsplash.com/@ninjason?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/4BKiS_BgOwI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+  - Photo by  [shen liu](https://unsplash.com/@mikeshen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/fJpsDNUoQs8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+  - Photo by  [Jason Leung](https://unsplash.com/@ninjason?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/3yllkHDQkus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+  - Photo by  [Serge Kutuzov](https://unsplash.com/@serge_k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/Nlfe9h-RggU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+  - Photo by  [Sai Kalyan Achanta](https://unsplash.com/es/@kalyanachanta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/azuu4TyLIF0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+  - Photo by  [Dylan Gillis](https://unsplash.com/@dylandgillis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/photos/V8_s30ttQTk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)    
