@@ -30,6 +30,12 @@ Tuner Nation is a website that celebrates the art of tuning and all things autom
 
 ## Design
 
+### Colour Scheme
+
+![Colour Palette](docs/colour-palette.png)
+
+The colours where choosen to reflect a modern feeling. The combination of Night and Gold gives the website modern look and it is easy on the eye. The colour palette was created with [Coolors](https://coolors.co/).  
+
 ### Typography
 
 Google Fonts and FontJoy were used for the following:
