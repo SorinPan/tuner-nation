@@ -187,6 +187,31 @@ Used to validate HTML and CSS code for all pages. H1 headings were used in secti
 <img src="docs/validation/css-validation.png">
 </details>
 
+## Testing User Stories
+
+ - As a user, I want to see upcoming events so that I can plan to attend and showcase my car.
+
+*The upcoming section provides the user with clear information on when the events will be*
+
+ - As a user, I want to see photos from previous events so that I can so that I can get a sense of what to expect.
+ 
+*The Gallery feature provides the user with images to help the user understand what the events are like*
+
+## Manual Testing
+
+Manually tested the website's responsivness with help of Google Chrome and FireFox Developer Edition.
+
+### Devices
+
+- Iphone 14 Pro
+- MacBook Pro 13'
+
+### Browser
+
+- Google Chrome
+- Safari
+- Firefox
+
 ### Solved Bugs
 
 - Side scroll bar for mobile screen size. Adjusted the size of mission image.
